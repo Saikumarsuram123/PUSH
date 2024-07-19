@@ -1,0 +1,9 @@
+what is git status?
+~The git status command displays the state of the working directory and the stagig area.it lets you see which changes 
+have bee staged, which haven't, and which files aren't being tracked by Git. status output does not show any
+information regarding the  committed project history.
+
+what is git init?
+~The git init command creates a new git repository. It can be used to covert an existing ,unversioned project to a git
+repository or initialize a new, empty repository. Most other Git commands are not available outside of an initialized 
+repository, so this is usually the first command you'll run in a new project.
